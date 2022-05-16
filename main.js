@@ -43,37 +43,37 @@ let track_list = [
     name: "Oddam El Nas",
     artist: "Mohamed Hamaki",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "/hamaki/01. Oddam El Nas.mp3"
+    path: "hamaki/01. Oddam El Nas.mp3"
   },
   {
     name: "Yzalzel",
     artist: "Mohamed Hamaki",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "/hamaki/01. Yzalzel.mp3"
+    path: "hamaki/01. Yzalzel.mp3"
   },
   {
     name: " Kefaya Holoul Wasat",
     artist: "Mohamed Hamaki",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "/hamaki/02. Kefaya Holoul Wasat.mp3"
+    path: "hamaki/02. Kefaya Holoul Wasat.mp3"
   },
   {
     name: "Kol Yom Men Dah",
     artist: "Mohamed Hamaki",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "/hamaki/02. Kol Yom Men Dah.mp3"
+    path: "hamaki/02. Kol Yom Men Dah.mp3"
   },
   {
     name: "Layla",
     artist: "Mohamed Hamaki",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "/hamaki/03. Layla.mp3"
+    path: "hamaki/03. Layla.mp3"
   },
   {
     name: "Radeeny",
     artist: "Mohamed Hamaki",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "/hamaki/03. Radeeny.mp3"
+    path: "hamaki/03. Radeeny.mp3"
   },
 ];
 
